@@ -1,0 +1,109 @@
+<div align="center" style="font-size:18pt; line-height:1em;">Η Βικιπαίδεια σα</div>
+<div align="center" style="font-size:25pt; line-height:1em;">Ρωμαίικα τα Ποντέικα</div>
+
+
+<div align="center" style="font-size:12pt; line-height:1,3em;">Ανοιχτόν εγκυκλοπαίδεια ντο γράφκεται και τρανείν απ' ατείντς π' θέλνε.</div>
+
+<div align="center" style="font-size:12pt; line-height:1,3em;">Ο αριθμόν τη σελίδιων τη ρωμαίικου τη ποντέικου τη Βικιπαίδειας ατώρα είναι {{NUMBEROFARTICLES}}. Βοηθέστεν κι εφτάτεν ατέναν κι άλλο τρανέσαν.</div>
+
+
+<inputbox>
+type=create
+width=50
+bgcolor=#ffffff
+preload=Template:Wp/pnt
+default=
+buttonlabel=αρχινέστεν άλλο γράψιμον
+</inputbox>
+
+<!-- Δέλτος μεγίστη -->
+<!-- ------------ -->
+{| cellpadding="0"  cellspacing="0"
+| valign="top" width="48%" style="background:#f5fffa; border: 1px solid #cef2e0"  |
+{| cellspacing="10" style="background:transparent; font-family: Palatino Linotype, Verdana, Arial, Helvetica, sans-serif;"
+| style="text-align:center; padding:4px;  font:bold 17px Georgia,serif; letter-spacing:3px; border-bottom: 1px solid #ccc; background:#cef2e0" | ΚΑΛΩΣ ΕΡΘΕΤΕΝ...
+|-----------------------------------------
+| style="text-align:left" | ...σην [[Βικιπαίδεια|Βικιπαίδειαν]].  '''Μαθέστεν''' πολλά για τ'ατέν δεαβάζοντας τα [[Βικιπαίδεια/πολλά ερωτήσεις|'''πολλά ερωτήσεις''']] και την [[Βικιπαίδεια/Βοήθεια|'''βοήθειαν''']]. 
+|-----------------------------------------
+| style="text-align:center; padding:4px; font:bold 17px Georgia,serif; letter-spacing:3px; border-bottom: 1px solid #ccc;background-color:#cedff2" |ΠΡΟΣΚΑΛΕΜΑΝ ΓΙΑ ΤΟ ΕΡΓΟΝ ΑΤΟ
+|-----------------------------------------
+| style="text-align:left" | '''Βοηθέστεν''' την Βικιπαίδειαν. Βαλέστεν και σεις το εξέρετεν αέτς για να τρανείν η εγκυκλοπαίδεια. 
+*Εάν ευρήκετεν γραφόμενα ντο 'κ είναι σωστά κι αν έχετε σον νούνεσουν τα σωστά, '''ποίστεν το κι άλλο καλλίον'''.
+*Εάν εγνωρίζετε καλά καινούρεα πράματα, '''αρχινέστεν''' άλλο γράψιμον. 
+*Η '''αντιγραφήν ασ' άλλα γλώσσας''' ίνεται. 
+|-----------------------------------------
+| style="text-align:center; padding:4px;  font:bold 17px Georgia,serif; letter-spacing:3px; border-bottom: 1px solid #ccc;background-color:#cedff2" |<span style="float: left;">[[Image:Nuvola apps kpdf.png|25px|]]</span>ΕΓΚΥΚΛΟΠΑΙΔΕΙΑ
+|-----------------------------------------
+| style="text-align:center;font-weight: bold; font-size: 13px;background-color:#cedff2" | Κατάλογος με τα θέματα
+|-----------------------------------------
+|
+{| style="font-size: 12px; background:#f5faff" cellspacing="0" cellpadding="3"
+| width="50%"   |
+[[Image:Nuvola apps kcoloredit.svg|40px|left]] <big>[[Πολιτισμόν|Πολιτισμόν]]</big><br>
+[[Ζωγραφικήν|Ζωγραφικήν]] &middot; [[Θέατρον|Θέατρον]] &middot; [[Λογοτεχνίαν|Λογοτεχνίαν]] &middot; [[Μουσικήν|Μουσικήν]] &middot; [[Αρχιτεκτονικήν|Αρχιτεκτονικήν]] &middot; [[Γλυπτικήν|Γλυπτικήν]] &middot; [[Αθλητισμός|Αθλητισμός]] &middot; [[Μυθολογίαν|Μυθολογίαν]] &middot; [[Θρησκείαν|Θρησκείαν]] &middot; [[Ποιητικήν|Ποιητικήν]] 
+
+
+[[Image:Nuvola_filesystems_www.png|40px|left]] <big>[[Γεωγραφίαν|Γεωγραφίαν]]</big><br/> 
+[[Ασίαν|Ασίαν]] &middot; [[Αφρικήν|Αφρικήν]] &middot; [[Ευρώπην|Ευρώπην]] &middot; [[Αμερικήν|Αμερικήν]] &middot; [[Ωκεανίαν|Ωκεανίαν]] &middot; [[Ανταρκτικήν|Ανταρκτικήν]] &middot; [[Αρκτικήν|Αρκτικήν]] &middot; [[Πολιτεία|Πολιτείας]] &middot;  [[Κράτος|Κράτη]] &middot; [[Θάλασσα|Θάλασσας]] &middot; [[Νησίν|Νησία]] &middot; [[Ραχίν|Ραχία]]
+
+
+[[Image:Nuvola apps bookcase.svg|40px|left]] <big>[[Ιστορίαν|Ιστορίαν]]</big><br/>
+[[Παλαιόν Ιστορίαν|Παλαιόν Ιστορίαν]] &middot; [[Ρωμανίαν|Ρωμανίαν/Βυζάντιον]] &middot; [[Ευρωπαϊκόν Ιστορίαν|Ευρωπαϊκόν Ιστορίαν]] &middot; [[Πολέμ|Πολέμ]] &middot; [[Ρωμαϊκόν Αυτοκρατορίαν|Ρωμαϊκόν Αυτοκρατορίαν]] &middot; [[Καινούρ' Ιστορίαν|Καινούρ' Ιστορίαν]]
+
+
+[[Image:Nuvola apps edu miscellaneous.png|40px|left]] <big>[[Γραμματικήν|Γραμματικήν]]</big><br/>[[Ουσιαστικόν|Ουσιαστικόν]] &middot; [[Ρήμαν|Ρήμαν]]  &middot;[[Επίρρημαν|Επίρρημαν]] &middot; [[Σύνδεσμον|Σύνδεσμον]] 
+
+
+[[Image:Nuvola apps kuser.svg|40px|left]] <big>[[Βικιπαίδεια|Βικιπαίδεια]]</big><br/>
+[[Βικιπαίδεια/Αγορά|Αγορά]] &middot;
+[[Βικιπαίδεια/Παρακάθ|Παρακάθ]] &middot; [[Βικιπαίδεια/Βοήθεια|'''Βοήθεια''']] &middot; [[Βικιπαίδεια/Ντο 'κ εν η Βικιπαίδεια|Ντο 'κ εν η Βικιπαίδεια]] &middot; [[Δικαιώματα πνευματί|Δικαιώματα πνευματί]]
+
+|}
+
+
+[[Category:Wp/pnt|παλαιόν]]
+
+[[als:]]
+[[id:]]
+[[bg:]]
+[[bs:]]
+[[ca:]]
+[[cs:]]
+[[da:]]
+[[de:]]
+[[el:]]
+[[en:]]
+[[es:]]
+[[et:]]
+[[eo:]]
+[[fr:]]
+[[fy:]]
+[[gl:]]
+[[he:]]
+[[hr:]]
+[[it:]]
+[[ja:]]
+[[ko:]]
+[[ku:]]
+[[la:]]
+[[lb:]]
+[[li:]]
+[[hu:]]
+[[nl:]]
+[[no:]]
+[[nn:]]
+[[nds:]]
+[[pl:]]
+[[pt:]]
+[[ro:]]
+[[ru:]]
+[[sk:]]
+[[sl:]]
+[[sr:]]
+[[sh:]]
+[[fi:]]
+[[sv:]]
+[[tr:]]
+[[uk:]]
+[[zh:]]
+[[zh-classical:]]
