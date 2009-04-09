@@ -35,16 +35,6 @@
 *Εάν εγνωρίζετε καλά καινούρεα πράματα, αρχινέστεν άλλο γράψιμον. 
 *Η αντιγραφήν ασ' άλλα γλώσσας ίνεται. 
 
-<inputbox>
-type=create
-width=50
-bgcolor=#cedff2
-preload=Template:Wp/pnt
-default=
-buttonlabel=αρχινέστεν άλλη σελίδαν
-</inputbox>
-</div>
-
 |-----------------------------------------
 | style="text-align:center; padding:4px;  font:bold 17px Georgia,serif; letter-spacing:3px; border-bottom: 1px solid #ccc;background-color:#cedff2" |<span style="float: left;">[[Image:P literature.svg|25px|]]</span>ΕΓΚΥΚΛΟΠΑΙΔΕΙΑ
 |-----------------------------------------
