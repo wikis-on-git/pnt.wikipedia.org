@@ -11,7 +11,7 @@
 type=create
 width=50
 bgcolor=#ffffff
-preload=Template:Wp/pnt
+preload=Πρότυπον:Wp/pnt
 default=
 buttonlabel=αρχινέστεν άλλο γράψιμον
 </inputbox>
