@@ -1,6 +1,6 @@
 {| style="float:right; clear: right; width: 20em; font-size: 110%; text-align: left; border: 1px solid #aaaaaa; border-right-width: 2px; border-bottom-width: 2px; background-color: #f9f9f9; margin-bottom: 0.5em; margin-left: 1em;" cellspacing="4" cellpadding="1"
 |-
-! colspan="2" class="hiddenStructureMacedonia" style="font-size: 110%; background-color: lightsteelblue;" | <center><big>'''Μ α κ ε δ ο ν ί α'''</big><br><big>''Μακεδονίαν''</big></center>
+! colspan="2" class="hiddenStructureMacedonia" style="font-size: 110%; background-color: lightsteelblue;" | <center><big>'''Μ α κ ε δ ο ν ί α'''</big><br /><big>''Μακεδονίαν''</big></center>
 |-  
 | colspan="2" |
     {| style="text-align: center; margin: 0 auto; background: none;"
@@ -20,9 +20,9 @@
 |-
 | colspan="2" style="border-bottom: 5px solid lightsteelblue; font-size: 1%;" | &nbsp;
 |- 
-| [[Πρωτεύουσα|Πρωτεύουσαν]]    || [[Θεσσαλονίκη|Θεσσαλονίκην]] 
+| [[Πρωτεύουσα|Πρωτεύουσαν]] || [[Θεσσαλονίκη|Θεσσαλονίκην]] 
 |- 
-| '''Πληθυσμόν'''   <small>(ανθρώπς)</small>  || 2.625.681 {{#if:
+| '''Πληθυσμόν''' <small>(ανθρώπς)</small> || 2.625.681 {{#if:
   2007
   |<small>(2007)</small> 
 }}   
@@ -38,13 +38,13 @@
 
 == Γεωγραφίαν ==
 Η Μακεδονίαν εν ο ασ' ουλτς τρανόν τόπον τη Ελλάδας.
-Ατέ ευρίεται αφκά σην [[Αλβανία|Αλβανίαν]], ση [[ΠΓΔΜ|ΠΓΔΜ]], ση [[Βουλγαρία|Βουλγαρίαν]], σα δυτικά τη [[Θράκη|Θράκης]], σ'ανατολικά τ'[[Ήπειρος|Ηπείρωνος]] και απάν'ση [[Θεσσαλία|Θεσσαλίαν]]. Σα τρανά τα ελλενικά τα πολιτείας τη Μακεδονίας εξόν τη [[Πρωτεύουσα|πρωτεύουσαν]] Θεσσαλονίκην ανήκ'νε τα [[Σέρρες|Σέρρας]], η [[Καβάλα|Καβάλαν]] και η [[Κοζάνη|Κοζάν]].
+Ατέ ευρίεται αφκά σην [[Αλβανία|Αλβανίαν]], ση [[ΠΓΔΜ]], ση [[Βουλγαρία|Βουλγαρίαν]], σα δυτικά τη [[Θράκη|Θράκης]], σ'ανατολικά τ'[[Ήπειρος|Ηπείρωνος]] και απάν'ση [[Θεσσαλία|Θεσσαλίαν]]. Σα τρανά τα ελλενικά τα πολιτείας τη Μακεδονίας εξόν τη [[Πρωτεύουσα|πρωτεύουσαν]] Θεσσαλονίκην ανήκ'νε τα [[Σέρρες|Σέρρας]], η [[Καβάλα|Καβάλαν]] και η [[Κοζάνη|Κοζάν]].
 
 == Ιστορίαν ==
 {| style="float:right; clear: right; width: 25em; font-size: 88%; text-align: left; border: 1px solid #aaaaaa; border-right-width: 2px; border-bottom-width: 2px; background-color: #f9f9f9; margin-bottom: 0.5em; margin-left: 1em;" cellspacing="4" cellpadding="1"
 |-
 {| class="infobox bordered" style="width: 250px; font-size: 95%; float: right;" cellpadding="4" cellspacing="0" 
-| height=5px; colspan="2" border="0" style="color:#fff; background:#669; font-size:larger; font-weight: bold;" align="center" |  <big><big>[[Μακεδονία|<span style="color: white;">Μακεδονία]]</big></big><br><small> [[Εικόναν:Verginasun.jpg|27px]] [[Μακεδονία|<span style="color: white;">Τ'αρχαίον]]</small> <small>και</small> <small>[[Μακεδονία|<span style="color: white;">τ' οσημερινόν τόπον]]</small> [[Εικόναν:Flag of Greek Macedonia.png|40px]]
+| height=5px; colspan="2" border="0" style="color:#fff; background:#669; font-size:larger; font-weight: bold;" align="center" |  <big><big>[[Μακεδονία|<span style="color: white;">Μακεδονία]]</big></big><br /><small> [[Εικόναν:Verginasun.jpg|27px]] [[Μακεδονία|<span style="color: white;">Τ'αρχαίον]]</small> <small>και</small> <small>[[Μακεδονία|<span style="color: white;">τ' οσημερινόν τόπον]]</small> [[Εικόναν:Flag of Greek Macedonia.png|40px]]
 |-
 |[[Εικόναν:LocationMacedonia-MAC-1-z.png|125px]] [[Εικόναν:LocationMacedonia-HEL-1-z.png|125px]]
 |}
@@ -53,22 +53,22 @@
 Η Μακεδονίαν έχ' τσιπ τρανόν ιστορίαν. Ο πολιτισμόν'ατς έχ' τη ρίζαν ατ' σ' [[Αρχαίον Ελλάδαν|αρχαίον την Ελλάδαν]].
 Έν'η γενέτειρα περιοχήν τ'αρχαίων τ'Ελλένων [[Βασιλείς τη Μακεδονίας|Βασιλέων τη Μακεδονίας]], τη [[Φίλιππος Β'|Φιλίππονος τη δευτέρου]] και τη [[Μέγας Αλέξανδρος|Μεγαλέξανδρονος]], ατοί τ'εποίκαν κι' έχτισαν το πρώτον πανελλενικόν ομoσπονδίαν. Απ'αδά εξεκίνησεν κι ο [[Χριστιανισμός|Χριστιανισμόν]] για τ' [[Ευρώπην|Ευρώπας]], όταν'έρθε και καλάτσεψε για τ'ατόν ο [[Απόστολος Παύλος|Απόστολον ο Παύλον]] σα [[Φιλίπποι|Φιλίππους]], ση Θεσσαλονίκην και ση [[Βέροια|Βέροιαν]]. Αδακά εγεννέθαν πα τ'αδέλφε [[Άγιοι Κύριλλος και Μεθόδιος|Άγιοι Κύριλλον και Μεθόδιον]] π'εφώτσαν τη [[Σλάβοι|Σλάβς]] και ο τρανομάρτυρτς ο [[Άγιος Δημήτριος|Άγιος Δημήτριον]].
 
-==Πολιτικόν διοίκηση== 
+== Πολιτικόν διοίκηση ==
 Το τοπί τη Μακεδονίας χωρίετεν διοικητικά σε 3 [[Περιφέρειας τη Ελλάδας|Περιφέρειας]]{{fn|1=1}} και σε 13 νομία{{fn|1=1}}:
 {| class="wikitable" style="text-align:left; font-size:95%"
 |- style="font-size:100%; text-align:center"
-!width="200px" bgcolor="#6495ED"| <big>'''Ο χάρτες τη Μακεδονίας'''</big> !!width="10px" bgcolor="#6495ED" | <big>'''[[Αριθμόν|Αρ.]]'''</big> !!width="190px" bgcolor="#6495ED"| <big>'''[[Περιφέρειες της Ελλάδας|Περιφέρεια]]</big> ( με τα νομία τι: )'''!!width="70px" bgcolor="#6495ED"| <big>'''[[Πρωτεύουσα|Πρωτεύουσαν]]'''</big> !!width="80px" bgcolor="#6495ED" | <big>'''[[Έκτασην|Έκτασην]]'''</big> !!width="70px" bgcolor="#6495ED" | <big>'''[[Πληθυσμόν|Πληθυσμόν]]'''</big> </tr>
+!width="200px" bgcolor="#6495ED"| <big>'''Ο χάρτες τη Μακεδονίας'''</big> !!width="10px" bgcolor="#6495ED" | <big>'''[[Αριθμόν|Αρ.]]'''</big> !!width="190px" bgcolor="#6495ED"| <big>'''[[Περιφέρειες της Ελλάδας|Περιφέρεια]]</big> ( με τα νομία τι: )'''!!width="70px" bgcolor="#6495ED"| <big>'''[[Πρωτεύουσα|Πρωτεύουσαν]]'''</big> !!width="80px" bgcolor="#6495ED" | <big>'''[[Έκτασην]]'''</big> !!width="70px" bgcolor="#6495ED" | <big>'''[[Πληθυσμόν]]'''</big> </tr>
 | rowspan=19 | [[Εικόναν:Macedonia greece prefectures.png|300px]]
 |-
-| width="32px" bgcolor="#FFCBCB" |  || width="32px" bgcolor="#FFCBCB" | <big>'''[[Δυτική Μακεδονία|Δυτικής Μακεδονίας]]'''</big>|| width="32px" bgcolor="#FFCBCB" | <big>'''[[Κοζάν|Κοζάν]]'''</big> || style="text-align:right" width="32px" bgcolor="#FFCBCB" |'''9.451 χμ²'''|| style="text-align:right" width="32px" bgcolor="#FFCBCB" |'''301.522'''
+| width="32px" bgcolor="#FFCBCB" |  || width="32px" bgcolor="#FFCBCB" | <big>'''[[Δυτική Μακεδονία|Δυτικής Μακεδονίας]]'''</big>|| width="32px" bgcolor="#FFCBCB" | <big>'''[[Κοζάν]]'''</big> || style="text-align:right" width="32px" bgcolor="#FFCBCB" |'''9.451 χμ²'''|| style="text-align:right" width="32px" bgcolor="#FFCBCB" |'''301.522'''
 |-
-| width="32px" bgcolor="#FFCBCB" | '''1''' || [[Νομόν Κέστερας|Κέστερας]] || [[Κέστεραν|Κέστεραν]] || style="text-align:right" |1.720 χμ²|| style="text-align:right" |53.483
+| width="32px" bgcolor="#FFCBCB" | '''1''' || [[Νομόν Κέστερας|Κέστερας]] || [[Κέστεραν]] || style="text-align:right" |1.720 χμ²|| style="text-align:right" |53.483
 |-
-| width="32px" bgcolor="#FFCBCB" | '''2''' || [[Νομόν Φλώρινας|Φλώρινας]] || [[Φλώριναν|Φλώριναν]] || style="text-align:right" |1.924 χμ²|| style="text-align:right" |54.768
+| width="32px" bgcolor="#FFCBCB" | '''2''' || [[Νομόν Φλώρινας|Φλώρινας]] || [[Φλώριναν]] || style="text-align:right" |1.924 χμ²|| style="text-align:right" |54.768
 |-
-| width="32px" bgcolor="#FFCBCB" |'''3''' || [[Νομόν Κοζάντς|Κοζάντς]] || [[Κοζάν|Κοζάν]] ||style="text-align:right" |3.516 χμ²|| style="text-align:right" |155.324
+| width="32px" bgcolor="#FFCBCB" |'''3''' || [[Νομόν Κοζάντς|Κοζάντς]] || [[Κοζάν]] ||style="text-align:right" |3.516 χμ²|| style="text-align:right" |155.324
 |-
-| width="32px" bgcolor="#FFCBCB" | '''4''' || [[Νομόν Γρεβενίας|Γρεβενίας]] || [[Γρεβενάν|Γρεβενάν]] || style="text-align:right" |2.291 χμ²|| style="text-align:right" |37.947
+| width="32px" bgcolor="#FFCBCB" | '''4''' || [[Νομόν Γρεβενίας|Γρεβενίας]] || [[Γρεβενάν]] || style="text-align:right" |2.291 χμ²|| style="text-align:right" |37.947
 |-
 | width="32px" bgcolor="#B9FFC5" |  || width="32px" bgcolor="#B9FFC5" | <big>'''[[Κεντρική Μακεδονία|Κεντρικής Μακεδονίας]]'''</big>|| width="32px" bgcolor="#B9FFC5" | <big>'''[[Θεσσαλονίκη|Θεσσαλονίκην]]'''</big> ||style="text-align:right" width="32px" bgcolor="#B9FFC5" |'''18.811 χμ²'''|| style="text-align:right" width="32px" bgcolor="#B9FFC5" |'''1.871.952'''
 |-
@@ -78,7 +78,7 @@
 |-
 | width="32px" bgcolor="#B9FFC5" | '''7''' || [[Νομόν Πιερίας|Πιερίας]] || [[Κατερίνη|Κατερίνην]] || style="text-align:right"|1.516 χμ²|| style="text-align:right"|129.846
 |-
-| width="32px" bgcolor="#B9FFC5" | '''8''' || [[Νομόν Κιλκίς|Κιλκίς]] || [[Κιλκίς|Κιλκίς]] || style="text-align:right"|2.519 χμ²|| style="text-align:right"|89.056
+| width="32px" bgcolor="#B9FFC5" | '''8''' || [[Νομόν Κιλκίς|Κιλκίς]] || [[Κιλκίς]] || style="text-align:right"|2.519 χμ²|| style="text-align:right"|89.056
 |-
 | width="32px" bgcolor="#B9FFC5" | '''9''' || [[Νομόν Θεσσαλονίκης|Θεσσαλονίκης]] || [[Θεσσαλονίκη|Θεσσαλονίκην]] || style="text-align:right"|3.683 χμ²|| style="text-align:right"| 1.057.825
 |-
@@ -103,17 +103,17 @@
 
 
 == Συνδέζμαι ==
-*'''[[Εικόναν:Commons-logo.svg|15px]] [[:el:commons:Macedonia|Η Μακεδονίαν σα Commons]]'''
-*'''[[Εικόναν:Wiktionary-logo-el.png|15px]] [[:wikt:el:Μακεδονία|Η Μακεδονίαν σο Βικιλεξικόν]]''' 
-*'''[[Εικόναν:Gnome-globe.svg|15px]] [[:el:commons:Atlas of Macedonia|Χάρτες ασην Μακεδονίαν]]'''
-*[http://www.mathra.gr/ To υπουργίον τη Μακεδονίας και τη Θράκης]
-*[http://www.westernmacedonia.gr/index.php Περιφέρεια Δυτικής Μακεδονίας] 
-*[http://www.rcm.gr/ Περιφέρεια Κεντρικής Μακεδονίας]
-*[http://www.remth.gr/index.php Περιφέρεια Ανατολικής Μακεδονίας και Θράκης]
+* '''[[Εικόναν:Commons-logo.svg|15px]] [[:el:commons:Macedonia|Η Μακεδονίαν σα Commons]]'''
+* '''[[Εικόναν:Wiktionary-logo-el.png|15px]] [[:wikt:el:Μακεδονία|Η Μακεδονίαν σο Βικιλεξικόν]]''' 
+* '''[[Εικόναν:Gnome-globe.svg|15px]] [[:el:commons:Atlas of Macedonia|Χάρτες ασην Μακεδονίαν]]'''
+* [http://www.mathra.gr/ To υπουργίον τη Μακεδονίας και τη Θράκης]
+* [http://www.westernmacedonia.gr/index.php Περιφέρεια Δυτικής Μακεδονίας] 
+* [http://www.rcm.gr/ Περιφέρεια Κεντρικής Μακεδονίας]
+* [http://www.remth.gr/index.php Περιφέρεια Ανατολικής Μακεδονίας και Θράκης]
 
 <references/>
 
-[[Κατηγορίαν:Ελλάδα|Μακεδονία]]  
+[[Κατηγορίαν:Ελλάδα|Μακεδονία]] 
 [[Κατηγορίαν:Μακεδονία| ]]
 
 [[als:Makedonien (Griechenland)]]
@@ -136,7 +136,7 @@
 [[es:Macedonia (Grecia)]]
 [[fi:Makedonia (Kreikka)]]
 [[fr:Macédoine grecque]]
-[[gl:Macedonia-Μακεδονία]]
+[[gl:Macedonia - Μακεδονία]]
 [[he:מקדוניה היוונית]]
 [[hr:Makedonija (Grčka)]]
 [[it:Macedonia (Grecia)]]
