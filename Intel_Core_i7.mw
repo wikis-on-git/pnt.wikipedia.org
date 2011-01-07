@@ -1,0 +1,84 @@
+{| class="toccolours" cellpadding="3" style="border: 1px solid #999999; float: right; margin: 0 0 1em 1em; width: 22em; border-collapse: collapse; font-size: 95%;"
+| align="center" colspan=2 bgcolor="#F0F0F0" style="font-size:110%; border: 1px solid #999999;" | '''''Intel Core i7'''''
+|-
+| style="border: 1px solid #999999;" align="center" colspan="2" | [[Εικόναν:Intel core i7 940 top R7309478 wp.jpg|225 px]]
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0" | '''Όνομαν'''
+| style="border: 1px solid #999999; width:14em" | Core i7
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0" | '''Ερχίνεσεν σα'''
+| 2008
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0" | '''Ετελέθεν σα'''
+| style="border: 1px solid #999999;" | - 
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0" | '''Max. CPU clock'''
+| style="border: 1px solid #999999;" | 1.6 GHz ους 3.47 GHz
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0"|'''Σύνολον εντολίων'''
+| style="border: 1px solid #999999;" | x86, x86-64, MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0"|'''Μικροαρχιτεκτονική'''
+| style="border: 1px solid #999999;" | Nehalem
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0"|'''Κουκούτσεα'''
+| style="border: 1px solid #999999;" | 4
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0"|'''Socket(s)'''
+| style="border: 1px solid #999999;" | 	LGA 1366<br>LGA 1156<br>mPGA-989
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0"|'''Ονόματα κουκουτσίων'''
+| style="border: 1px solid #999999;" | Bloomfield<br>Lynnfield<br>Clarksfield<br>Clarksfield XM
+|- 
+|}
+'''Intel Core i7''' εν τ'όνομαν π'έδωκεν η εταιρία [[Intel]] σε [[κεντρικόν μονάδα επεξεργασίας|επεξεργαστάς]] ντ'εφτάειατα για τ’ οσπιτί υπολογιστάς και για λάπτοπ. Η Intel εσκάλωσεν κι εχτησιμοίησεν αούτον τ'όνομαν σα 2008. Ασα 2008 κι αδά μερέαν, όλεα τα επεξεργαστάς Core i7 στιρίχκουνταν σην [[Intel Nehalem (microarchitecture)|Intel Nehalem microarchitecture]] απάν. Ασα 2008 εμπροστά, η Intel είςεν τ'όνομαν «Core 2» για αήκα επεξεργαστάς. Εςς πολλά λοέν Core i7 επεξεργαστάς. Τ'όνομαν ΄κ συμβολίζ' κατηγορίαν επεξεργαστίων. Core i7 εν τ'όνομαν για όλεα τα πολλά αληγορτά επεργαστάς τη Intel. Εξόν ασατά η Intel εςς και άλλα ονόματα για τοι επεξεργαστέσατς π' θέλ να πωλείατα σοι καταναλωτές: «Core i5» και «Core i3». «Core I5» λέχκουνταν τα επεξεργαστάς π' 'κ είναι ατόσον αληγορτά άμον είναι τα «Core i7». Τα «Core i5» επορούν κι εφτάγνε όλεα τα δουλείας π'θέλνε οι χρήστες υπολογιστίων, εξόν ασ'ολίγα κατηγορίας παιχνιδίων. Τ'όνομαν «Core i3» συμβολίζ' τα επεξεργαστάς, τα οποία ασα «Core i5» υπολογιστάς δουλεύνε κιάλλο αργά. Τα «Core I3» απορούν κι εφτάγνε πολλά απλά δουλείας για πολλούς χρήστες υπολογιστίων.<ref name="i7-920">
+{{cite web
+ |url=http://ark.intel.com/cpu.aspx?groupId=37147
+ |title=Intel® Core™ i7-920 Processor (8M Cache, 2.66 GHz, 4.80 GT/s Intel® QPI)
+ |accessdate=2008-12-06
+ |publisher=Intel
+}}</ref><ref name="i7-940">
+{{cite web
+ |url=http://ark.intel.com/cpu.aspx?groupId=37148
+ |title=Intel® Core™ i7-940 Processor (8M Cache, 2.93 GHz, 4.80 GT/s Intel® QPI) 
+ |accessdate=2008-12-06
+ |publisher=Intel
+}}</ref><ref name="i7-965">
+{{cite web
+ |url=http://ark.intel.com/cpu.aspx?groupId=37149
+ |title=Intel® Core™ i7-965 Processor Extreme Edition (8M Cache, 3.20 GHz, 6.40 GT/s Intel® QPI)
+ |accessdate=2008-12-06
+ |publisher=Intel
+}}</ref> 
+
+==Αναφοράντας==
+{{reflist}}
+
+
+[[Κατηγορίαν:Τεχνολογίαν]]
+
+[[ar:إنتل كور i7]]
+[[ca:Core i7]]
+[[de:Intel-Core-i-Serie]]
+[[et:Intel Core i7]]
+[[en:Intel Core i7]]
+[[es:Intel Core i7 (Nehalem)]]
+[[fa:اینتل کور آی-۷]]
+[[fr:Intel Core i7]]
+[[gl:Intel Core i7]]
+[[ko:인텔 코어 i7]]
+[[hr:Intel Core i7]]
+[[it:Core i7]]
+[[nl:Intel Core i7]]
+[[ja:Intel Core i7]]
+[[no:Intel Core i7]]
+[[pl:Intel Core i7]]
+[[pt:Intel Core i7]]
+[[ro:Intel Core i7]]
+[[ru:Core i7]]
+[[sk:Intel Core i7]]
+[[sv:Intel Core i7]]
+[[tr:Intel Core i7]]
+[[uk:Intel Core i7]]
+[[zh-yue:Core i7]]
+[[zh:Intel Core i7]]
