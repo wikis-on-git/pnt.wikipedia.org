@@ -1,4 +1,36 @@
-[[File:Core 2 Wolfdale.jpg|thumb|Ο [[Intel]] Core 2 "Wolfdale"]]
+{| class="toccolours" cellpadding="3" style="border: 1px solid #999999; float: right; margin: 0 0 1em 1em; width: 22em; border-collapse: collapse; font-size: 95%;"
+| align="center" colspan=2 bgcolor="#F0F0F0" style="font-size:110%; border: 1px solid #999999;" | '''''Intel Core 2'''''
+|-
+| style="border: 1px solid #999999;" align="center" colspan="2" | [[Εικόναν:Core 2 Wolfdale.jpg|225 px]]<br><small>Ο [[Intel]] Core 2 "Wolfdale"</small>
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0" | '''Όνομαν'''
+| style="border: 1px solid #999999; width:14em" | Core 2
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0" | '''Ερχίνεσεν σα'''
+| 2006 
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0" | '''Ετελέθεν σα'''
+| style="border: 1px solid #999999;" | 2010 
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0" | '''Χρονισμοί'''
+| style="border: 1px solid #999999;" | 1.06 ους 3.33 GHz
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0"|'''Αρχιτεκτονικά Σετ Εντολίων'''
+| style="border: 1px solid #999999;" | x86, x86-64
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0"|'''Μικροαρχιτεκτονική'''
+| style="border: 1px solid #999999;" | Core
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0"|'''Κουκούτσεα'''
+| style="border: 1px solid #999999;" | 1, 2 ή 4 (2x2)
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0"|'''Συμβατά Υποδοχάς (Socket)'''
+| style="border: 1px solid #999999;" | 	LGA 1366<br>LGA 1156<br>mPGA-989
+|- valign="top"
+| style="border: 1px solid #999999;" bgcolor="#F0F0F0"|'''Ονόματα κουκουτσίων'''
+| style="border: 1px solid #999999;" | Allendale, Conroe, Conroe-L, Merom-2M, Merom, Merom-L, Kentsfield, Wolfdale, Yorkfield, Penryn
+|- 
+|}
 '''Intel Core 2''' εν ομάδαν [[Κεντρικόν μονάδα επεξεργασίας|επεξεργαστίων]] ντ'εποίκενατο η [[Intel]]. Εξέβεν ασα [[Intel Core|Core]] κι επεκεί. Σ'αούτον την ομάδαν απές εςς επεξεργαστάς solo-core (με έναν κουκούτς) "Core 2 Solo", dual-core (2 κουκούτσεα) "Core 2 Duo", και quad-core (4 κουκούτσεα) "Core 2 Quad". Επεκεί εξέβαν και επεξεργαστάς με τ'όνομαν "Extreme", λ.χ. ''Core 2 Extreme''. Ατά πα θέλνε κιάλλα παράδας άμαν έχνε κιάλλο τρανόν τακάτ ασ'αλτς. 
 
 == Τ'επεξεργαστή τα κουκούτσεα ==
